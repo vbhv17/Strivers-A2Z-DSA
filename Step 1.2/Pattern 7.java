@@ -1,3 +1,9 @@
+    *    
+   ***   
+  *****  
+ ******* 
+*********
+
 //by observing the pattern we can see that n = no of rows, no of columns will always be n*2-1
 //for each column we have to print space star and then space again
 // if n = 5
